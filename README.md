@@ -1,9 +1,11 @@
 # crypto-anomaly-detection
 
+---
+
 # **Crypto Anomaly Detection Using Machine Learning & Deep Learning**  
 
 ### **Overview**  
-This repository presents a **comprehensive solution** for detecting anomalies in cryptocurrency price trends using **machine learning** and **deep learning** techniques. By leveraging **Isolation Forest, Autoencoders, and Z-Score analysis**, the project identifies unusual price movements, aiding in **risk assessment, fraud detection, and market analysis**.  
+This repository provides a **comprehensive solution** for detecting anomalies in cryptocurrency price trends using **machine learning and deep learning** techniques. By leveraging **Isolation Forest, Autoencoders, and Z-Score analysis**, the project identifies unusual price movements, aiding in **risk assessment, fraud detection, and market analysis**.  
 
 ---
 
@@ -23,8 +25,8 @@ This repository presents a **comprehensive solution** for detecting anomalies in
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/crypto-anomaly-detection.git  
-cd crypto-anomaly-detection
+git clone https://github.com/Gauri9977/crypto-anomaly-detection.git  
+cd crypto-anomaly-detection  
 ```
 
 ### **Install Dependencies**  
@@ -75,7 +77,7 @@ This project uses **historical cryptocurrency market data**.
 
 Click the button below to execute the project directly in **Google Colab**:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1J2T6A-M4yOkvNxvakchSR5T9PqYZLyqa?usp=sharing))  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J2T6A-M4yOkvNxvakchSR5T9PqYZLyqa?usp=sharing)  
 
 ---
 
@@ -93,6 +95,6 @@ Fork the repository, make your changes, and submit a **Pull Request**!
 ### **📬 Contact & Support**  
 For queries or collaborations, feel free to reach out via **GitHub Issues**.  
 
-📌 **GitHub Repo:** [yourusername/crypto-anomaly-detection]([https://github.com/yourusername/crypto-anomaly-detection](https://github.com/Gauri9977/crypto-anomaly-detection)) 
+📌 **GitHub Repo:** [Gauri9977/crypto-anomaly-detection](https://github.com/Gauri9977/crypto-anomaly-detection)  
 
 ---
